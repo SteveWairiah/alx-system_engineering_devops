@@ -1,1 +1,1 @@
-shell 0x00 basics path
+script that prints the absolute path name of the current working directory
